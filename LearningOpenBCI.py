@@ -3,7 +3,6 @@
 
 # In[ ]:
 
-
 from yapsy.PluginManager import PluginManager
 from scipy import signal
 from tkinter import Canvas
@@ -496,8 +495,6 @@ if __name__ == "__main__":
     ani = animation.FuncAnimation(f, animate, interval=1000)
     app.mainloop()       
 
-
-# In[ ]:
 
 
 
